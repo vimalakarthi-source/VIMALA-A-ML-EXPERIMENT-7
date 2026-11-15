@@ -6,7 +6,7 @@
 
 
 
-## AIM : 
+## AIM:
 
 
 
@@ -23,7 +23,7 @@ Build a ColumnTransformer pipeline to preprocess numeric and categorical feature
 
 
 
-## ALGORITHM : 
+## ALGORITHM:
 
 
 
@@ -111,7 +111,7 @@ Pipeline trainded successfully.
 
 
 
-## RESULT : 
+## RESULT:
 
 
 
